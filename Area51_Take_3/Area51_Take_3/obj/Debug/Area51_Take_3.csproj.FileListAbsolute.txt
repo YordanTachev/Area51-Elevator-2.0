@@ -1,0 +1,7 @@
+C:\Users\dta4k\Desktop\Closes to being done\Area51_Take_3\Area51_Take_3\bin\Debug\Area51_Take_3.exe.config
+C:\Users\dta4k\Desktop\Closes to being done\Area51_Take_3\Area51_Take_3\bin\Debug\Area51_Take_3.exe
+C:\Users\dta4k\Desktop\Closes to being done\Area51_Take_3\Area51_Take_3\bin\Debug\Area51_Take_3.pdb
+C:\Users\dta4k\Desktop\Closes to being done\Area51_Take_3\Area51_Take_3\obj\Debug\Area51_Take_3.csproj.AssemblyReference.cache
+C:\Users\dta4k\Desktop\Closes to being done\Area51_Take_3\Area51_Take_3\obj\Debug\Area51_Take_3.csproj.CoreCompileInputs.cache
+C:\Users\dta4k\Desktop\Closes to being done\Area51_Take_3\Area51_Take_3\obj\Debug\Area51_Take_3.exe
+C:\Users\dta4k\Desktop\Closes to being done\Area51_Take_3\Area51_Take_3\obj\Debug\Area51_Take_3.pdb
